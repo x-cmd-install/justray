@@ -47,12 +47,12 @@ Total: **14,738** lines of code across **117** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 19 | 3 | 0 | 2 | 1 | 99 |
-| last60d | 2026-08-20 | 47 | 22 | 0 | 6 | 1 | 218 |
-| 90d | 2026-07-21 | 47 | 22 | 0 | 6 | 1 | 273 |
-| last180d | 2026-04-22 | 47 | 22 | 0 | 6 | 1 | 273 |
-| 360d | 2025-10-24 | 47 | 22 | 0 | 6 | 1 | 273 |
-| last720d | 2024-10-29 | 47 | 22 | 0 | 6 | 1 | 273 |
+| 30d | 2026-09-20 | 19 | 3 | 0 | 2 | 1 | 99 |
+| last60d | 2026-08-21 | 47 | 22 | 0 | 6 | 1 | 218 |
+| 90d | 2026-07-22 | 47 | 22 | 0 | 6 | 1 | 273 |
+| last180d | 2026-04-23 | 47 | 22 | 0 | 6 | 1 | 273 |
+| 360d | 2025-10-25 | 47 | 22 | 0 | 6 | 1 | 273 |
+| last720d | 2024-10-30 | 47 | 22 | 0 | 6 | 1 | 273 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T09:14:18Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T06:02:40Z._

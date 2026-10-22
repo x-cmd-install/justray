@@ -14,11 +14,11 @@ x install justray
 
 ## Code insight
 
-Total: **14,746** lines of code across **117** files in the top 5 languages.
+Total: **14,635** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,233 | 53 | 1,153 | 111 |
+| Go | 14,122 | 53 | 1,148 | 111 |
 | Nix | 205 | 6 | 17 | 1 |
 | PowerShell | 168 | 2 | 36 | 1 |
 | Sh | 140 | 2 | 35 | 1 |
@@ -32,7 +32,7 @@ Total: **14,746** lines of code across **117** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.0` (2026-10-17)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **14,746** lines of code across **117** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 274
+- **Releases**: 47 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 19 | 3 | 0 | 2 | 1 | 100 |
-| last60d | 2026-08-22 | 47 | 22 | 0 | 6 | 1 | 219 |
-| 90d | 2026-07-23 | 47 | 22 | 0 | 6 | 1 | 274 |
-| last180d | 2026-04-24 | 47 | 22 | 0 | 6 | 1 | 274 |
-| 360d | 2025-10-26 | 47 | 22 | 0 | 6 | 1 | 274 |
-| last720d | 2024-10-31 | 47 | 22 | 0 | 6 | 1 | 274 |
+| 30d | 2026-09-22 | 19 | 3 | 0 | 1 | 1 | 103 |
+| last60d | 2026-08-23 | 47 | 22 | 0 | 6 | 1 | 222 |
+| 90d | 2026-07-24 | 47 | 22 | 0 | 6 | 1 | 277 |
+| last180d | 2026-04-25 | 47 | 22 | 0 | 6 | 1 | 277 |
+| 360d | 2025-10-27 | 47 | 22 | 0 | 6 | 1 | 277 |
+| last720d | 2024-11-01 | 47 | 22 | 0 | 6 | 1 | 277 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:55:21Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:57:30Z._

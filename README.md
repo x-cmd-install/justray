@@ -14,15 +14,15 @@ x install justray
 
 ## Code insight
 
-Total: **14,778** lines of code across **117** files in the top 5 languages.
+Total: **14,731** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,265 | 53 | 1,164 | 111 |
+| Go | 14,260 | 53 | 1,164 | 111 |
 | Nix | 205 | 6 | 17 | 1 |
-| PowerShell | 168 | 2 | 36 | 1 |
-| Sh | 140 | 2 | 35 | 1 |
-| Markdown | 0 | 146 | 76 | 3 |
+| PowerShell | 140 | 2 | 30 | 1 |
+| Sh | 126 | 2 | 33 | 1 |
+| Markdown | 0 | 146 | 70 | 3 |
 
 ## Source
 
@@ -31,9 +31,9 @@ Total: **14,778** lines of code across **117** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.8.0` (2026-10-17)
+- **Latest**: `v1.8.1` (2026-10-24)
 - **Last commit**: 2026-10-24
-- **Assets in release**: 7
+- **Assets in release**: 11
 
 ## Popularity
 
@@ -41,30 +41,34 @@ Total: **14,778** lines of code across **117** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 284
+- **Releases**: 48 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 17 | 3 | 0 | 1 | 1 | 110 |
-| last60d | 2026-08-25 | 47 | 22 | 0 | 6 | 1 | 229 |
-| 90d | 2026-07-26 | 47 | 22 | 0 | 6 | 1 | 284 |
-| last180d | 2026-04-27 | 47 | 22 | 0 | 6 | 1 | 284 |
-| 360d | 2025-10-29 | 47 | 22 | 0 | 6 | 1 | 284 |
-| last720d | 2024-11-03 | 47 | 22 | 0 | 6 | 1 | 284 |
+| 30d | 2026-09-25 | 18 | 2 | 0 | 1 | 1 | 89 |
+| last60d | 2026-08-26 | 48 | 22 | 0 | 6 | 1 | 204 |
+| 90d | 2026-07-27 | 48 | 22 | 0 | 6 | 1 | 289 |
+| last180d | 2026-04-28 | 48 | 22 | 0 | 6 | 1 | 289 |
+| 360d | 2025-10-30 | 48 | 22 | 0 | 6 | 1 | 289 |
+| last720d | 2024-11-04 | 48 | 22 | 0 | 6 | 1 | 289 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/luynrs/justray/releases/download/v1.8.0/checksums.txt) | 594 B | `other` |
-| [justray_1.8.0_darwin_amd64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.0/justray_1.8.0_darwin_amd64.tar.gz) | 17.7 MiB | `native/darwin/x64` |
-| [justray_1.8.0_darwin_arm64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.0/justray_1.8.0_darwin_arm64.tar.gz) | 16.5 MiB | `native/darwin/arm64` |
-| [justray_1.8.0_linux_amd64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.0/justray_1.8.0_linux_amd64.tar.gz) | 18.1 MiB | `native/linux/x64` |
-| [justray_1.8.0_linux_arm64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.0/justray_1.8.0_linux_arm64.tar.gz) | 16.4 MiB | `native/linux/arm64` |
-| [justray_1.8.0_windows_amd64.zip](https://github.com/luynrs/justray/releases/download/v1.8.0/justray_1.8.0_windows_amd64.zip) | 18.1 MiB | `native/win/x64` |
-| [justray_1.8.0_windows_arm64.zip](https://github.com/luynrs/justray/releases/download/v1.8.0/justray_1.8.0_windows_arm64.zip) | 16.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/luynrs/justray/releases/download/v1.8.1/checksums.txt) | 952 B | `other` |
+| [justray-1.8.1-amd64.deb](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-amd64.deb) | 18.1 MiB | `other` |
+| [justray-1.8.1-amd64.rpm](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-amd64.rpm) | 18.6 MiB | `other` |
+| [justray-1.8.1-arm64.deb](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-arm64.deb) | 16.4 MiB | `other` |
+| [justray-1.8.1-arm64.rpm](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-arm64.rpm) | 16.9 MiB | `other` |
+| [justray-1.8.1-linux-amd64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-linux-amd64.tar.gz) | 18.1 MiB | `native/linux/x64` |
+| [justray-1.8.1-linux-arm64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-linux-arm64.tar.gz) | 16.4 MiB | `native/linux/arm64` |
+| [justray-1.8.1-macos-amd64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-macos-amd64.tar.gz) | 17.8 MiB | `native/darwin/x64` |
+| [justray-1.8.1-macos-arm64.tar.gz](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-macos-arm64.tar.gz) | 16.5 MiB | `native/darwin/arm64` |
+| [justray-1.8.1-windows-amd64.zip](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-windows-amd64.zip) | 18.1 MiB | `native/win/x64` |
+| [justray-1.8.1-windows-arm64.zip](https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-windows-arm64.zip) | 16.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -75,4 +79,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:40:47Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:46:13Z._

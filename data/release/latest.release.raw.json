@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 952,
       "digest": "sha256:d9958711652f4ddd6f5fd8ef101856ecdb32a32ff1de9b8139036cbe50ab1a5a",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-24T12:46:04Z",
       "updated_at": "2026-10-24T12:46:04Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18954766,
       "digest": "sha256:016775ced205bc9771e659dec3e14fb7dfe6dcb2bc71ae8bc4dd9d9804eddecd",
-      "download_count": 16,
+      "download_count": 25,
       "created_at": "2026-10-24T12:46:01Z",
       "updated_at": "2026-10-24T12:46:02Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-linux-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17294601,
       "digest": "sha256:09eb201ae18bda83a2c0769e50ed1d9456fbfcf4a11d67f52ec89027fb631cbd",
-      "download_count": 0,
+      "download_count": 4,
       "created_at": "2026-10-24T12:46:01Z",
       "updated_at": "2026-10-24T12:46:02Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-macos-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18981827,
       "digest": "sha256:1a9e84b39e9a85c62d7b8d2536ec2d60558cfbefff879b07d9f9a847905505ab",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-10-24T12:46:01Z",
       "updated_at": "2026-10-24T12:46:02Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-windows-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16815761,
       "digest": "sha256:bfc7d79b36518ec062be252a852f5ff97006f68210c329cce0abac6682086d27",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-10-24T12:46:02Z",
       "updated_at": "2026-10-24T12:46:03Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-windows-arm64.zip"

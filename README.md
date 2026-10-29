@@ -14,11 +14,11 @@ x install justray
 
 ## Code insight
 
-Total: **14,660** lines of code across **116** files in the top 5 languages.
+Total: **14,635** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,189 | 54 | 1,159 | 110 |
+| Go | 14,164 | 68 | 1,156 | 110 |
 | Nix | 205 | 6 | 17 | 1 |
 | PowerShell | 140 | 2 | 30 | 1 |
 | Sh | 126 | 2 | 33 | 1 |
@@ -41,18 +41,18 @@ Total: **14,660** lines of code across **116** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 300
+- **Releases**: 48 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 16 | 1 | 0 | 1 | 1 | 100 |
-| last60d | 2026-08-29 | 42 | 15 | 0 | 5 | 1 | 215 |
-| 90d | 2026-07-30 | 48 | 22 | 0 | 6 | 1 | 300 |
-| last180d | 2026-05-01 | 48 | 22 | 0 | 6 | 1 | 300 |
-| 360d | 2025-11-02 | 48 | 22 | 0 | 6 | 1 | 300 |
-| last720d | 2024-11-07 | 48 | 22 | 0 | 6 | 1 | 300 |
+| 30d | 2026-09-29 | 16 | 1 | 0 | 1 | 1 | 101 |
+| last60d | 2026-08-30 | 42 | 12 | 0 | 5 | 1 | 216 |
+| 90d | 2026-07-31 | 48 | 22 | 0 | 6 | 1 | 301 |
+| last180d | 2026-05-02 | 48 | 22 | 0 | 6 | 1 | 301 |
+| 360d | 2025-11-03 | 48 | 22 | 0 | 6 | 1 | 301 |
+| last720d | 2024-11-08 | 48 | 22 | 0 | 6 | 1 | 301 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:48:44Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:58:53Z._

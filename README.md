@@ -14,14 +14,14 @@ x install justray
 
 ## Code insight
 
-Total: **14,635** lines of code across **116** files in the top 5 languages.
+Total: **14,616** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,164 | 68 | 1,156 | 110 |
+| Go | 14,113 | 60 | 1,155 | 110 |
 | Nix | 205 | 6 | 17 | 1 |
-| PowerShell | 140 | 2 | 30 | 1 |
-| Sh | 126 | 2 | 33 | 1 |
+| Sh | 151 | 3 | 33 | 1 |
+| PowerShell | 147 | 4 | 24 | 1 |
 | Markdown | 0 | 149 | 67 | 3 |
 
 ## Source
@@ -32,7 +32,7 @@ Total: **14,635** lines of code across **116** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.1` (2026-10-24)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 11
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **14,635** lines of code across **116** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 301
+- **Releases**: 48 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 307
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 16 | 1 | 0 | 1 | 1 | 101 |
-| last60d | 2026-08-30 | 42 | 12 | 0 | 5 | 1 | 216 |
-| 90d | 2026-07-31 | 48 | 22 | 0 | 6 | 1 | 301 |
-| last180d | 2026-05-02 | 48 | 22 | 0 | 6 | 1 | 301 |
-| 360d | 2025-11-03 | 48 | 22 | 0 | 6 | 1 | 301 |
-| last720d | 2024-11-08 | 48 | 22 | 0 | 6 | 1 | 301 |
+| 30d | 2026-09-30 | 16 | 1 | 0 | 1 | 0 | 107 |
+| last60d | 2026-08-31 | 41 | 12 | 0 | 4 | 1 | 222 |
+| 90d | 2026-08-01 | 48 | 22 | 0 | 6 | 1 | 307 |
+| last180d | 2026-05-03 | 48 | 22 | 0 | 6 | 1 | 307 |
+| 360d | 2025-11-04 | 48 | 22 | 0 | 6 | 1 | 307 |
+| last720d | 2024-11-09 | 48 | 22 | 0 | 6 | 1 | 307 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:58:53Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:55:20Z._

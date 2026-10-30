@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 952,
       "digest": "sha256:d9958711652f4ddd6f5fd8ef101856ecdb32a32ff1de9b8139036cbe50ab1a5a",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-10-24T12:46:04Z",
       "updated_at": "2026-10-24T12:46:04Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 18949510,
       "digest": "sha256:b748ff2f7b3307f18a9c4e4dcd3333be22e71dbc15032a194ed78db192c18c14",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-24T12:46:04Z",
       "updated_at": "2026-10-24T12:46:05Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17190764,
       "digest": "sha256:f7bced4fe5658cad3af52d49fcdbc6369bd74950a7c04106049f1cb442345071",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-24T12:46:04Z",
       "updated_at": "2026-10-24T12:46:05Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18954766,
       "digest": "sha256:016775ced205bc9771e659dec3e14fb7dfe6dcb2bc71ae8bc4dd9d9804eddecd",
-      "download_count": 55,
+      "download_count": 60,
       "created_at": "2026-10-24T12:46:01Z",
       "updated_at": "2026-10-24T12:46:02Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-linux-amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 17192481,
       "digest": "sha256:5312da76e133ace8643b03595163e4a489e46a2a3144434294fc693af880d752",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-24T12:46:01Z",
       "updated_at": "2026-10-24T12:46:02Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18981827,
       "digest": "sha256:1a9e84b39e9a85c62d7b8d2536ec2d60558cfbefff879b07d9f9a847905505ab",
-      "download_count": 36,
+      "download_count": 40,
       "created_at": "2026-10-24T12:46:01Z",
       "updated_at": "2026-10-24T12:46:02Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-windows-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16815761,
       "digest": "sha256:bfc7d79b36518ec062be252a852f5ff97006f68210c329cce0abac6682086d27",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-10-24T12:46:02Z",
       "updated_at": "2026-10-24T12:46:03Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.8.1/justray-1.8.1-windows-arm64.zip"

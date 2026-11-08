@@ -37,7 +37,7 @@ Total: **14,805** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 79 · **Forks**: 5 · **Open issues**: 7 · **Contributors**: 2
+- **Stars**: 80 · **Forks**: 5 · **Open issues**: 7 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,805** lines of code across **116** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 14 | 0 | 0 | 1 | 0 | 93 |
-| last60d | 2026-09-08 | 34 | 8 | 0 | 3 | 0 | 193 |
-| 90d | 2026-08-09 | 51 | 22 | 0 | 7 | 0 | 321 |
-| last180d | 2026-05-11 | 51 | 22 | 0 | 7 | 0 | 321 |
-| 360d | 2025-11-12 | 51 | 22 | 0 | 7 | 0 | 321 |
-| last720d | 2024-11-17 | 51 | 22 | 0 | 7 | 0 | 321 |
+| 30d | 2026-10-09 | 14 | 0 | 0 | 1 | 0 | 66 |
+| last60d | 2026-09-09 | 33 | 8 | 0 | 3 | 0 | 164 |
+| 90d | 2026-08-10 | 51 | 22 | 0 | 7 | 0 | 316 |
+| last180d | 2026-05-12 | 51 | 22 | 0 | 7 | 0 | 321 |
+| 360d | 2025-11-13 | 51 | 22 | 0 | 7 | 0 | 321 |
+| last720d | 2024-11-18 | 51 | 22 | 0 | 7 | 0 | 321 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:07:36Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:12:49Z._

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 952,
       "digest": "sha256:3c730810c94a38574406ea570a5324f8b790823ac1e98331fc2e11ff0638271b",
-      "download_count": 18,
+      "download_count": 24,
       "created_at": "2026-11-08T11:15:03Z",
       "updated_at": "2026-11-08T11:15:04Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.1/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19020570,
       "digest": "sha256:35b04b0ff610c9bcb76c3249b9d2ea7d00e754b13b3a4cf4c0a4f733795f0463",
-      "download_count": 50,
+      "download_count": 61,
       "created_at": "2026-11-08T11:15:00Z",
       "updated_at": "2026-11-08T11:15:01Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.1/justray-1.9.1-linux-amd64.tar.gz"

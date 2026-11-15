@@ -14,11 +14,11 @@ x install justray
 
 ## Code insight
 
-Total: **14,811** lines of code across **116** files in the top 5 languages.
+Total: **14,874** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,308 | 55 | 1,159 | 110 |
+| Go | 14,371 | 55 | 1,159 | 110 |
 | Nix | 205 | 6 | 17 | 1 |
 | Sh | 151 | 3 | 33 | 1 |
 | PowerShell | 147 | 4 | 24 | 1 |
@@ -37,22 +37,22 @@ Total: **14,811** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 82 · **Forks**: 5 · **Open issues**: 7 · **Contributors**: 2
+- **Stars**: 84 · **Forks**: 5 · **Open issues**: 7 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 24 · **Open PRs**: 0 · **Closed issues**: 7 · **Open issues**: 0 · **Commits**: 331
+- **Releases**: 52 · **Merged PRs**: 24 · **Open PRs**: 0 · **Closed issues**: 7 · **Open issues**: 0 · **Commits**: 333
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 11 | 2 | 0 | 0 | 0 | 76 |
-| last60d | 2026-09-15 | 28 | 6 | 0 | 3 | 0 | 174 |
-| 90d | 2026-08-16 | 52 | 24 | 0 | 7 | 0 | 326 |
-| last180d | 2026-05-18 | 52 | 24 | 0 | 7 | 0 | 331 |
-| 360d | 2025-11-19 | 52 | 24 | 0 | 7 | 0 | 331 |
-| last720d | 2024-11-24 | 52 | 24 | 0 | 7 | 0 | 331 |
+| 30d | 2026-10-16 | 10 | 2 | 0 | 0 | 0 | 54 |
+| last60d | 2026-09-16 | 27 | 6 | 0 | 3 | 0 | 163 |
+| 90d | 2026-08-17 | 52 | 24 | 0 | 7 | 0 | 296 |
+| last180d | 2026-05-19 | 52 | 24 | 0 | 7 | 0 | 333 |
+| 360d | 2025-11-20 | 52 | 24 | 0 | 7 | 0 | 333 |
+| last720d | 2024-11-25 | 52 | 24 | 0 | 7 | 0 | 333 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:08:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:55:18Z._

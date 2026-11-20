@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 19025836,
       "digest": "sha256:052cedf50c57805fc993d2a722c3b2cd27890b552db0df2f8648b7768a448fae",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-17T18:50:33Z",
       "updated_at": "2026-11-17T18:50:34Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.2/justray-1.9.2-amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19021150,
       "digest": "sha256:6378bedf91f04a07b608124581acc482feb6ce360a406f0a128e7afdfee9cbfe",
-      "download_count": 18,
+      "download_count": 25,
       "created_at": "2026-11-17T18:50:32Z",
       "updated_at": "2026-11-17T18:50:33Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.2/justray-1.9.2-linux-amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 17250387,
       "digest": "sha256:af2c2f1f1fb4e234fb24ead9ad91b7863d5cf66dd50239fb950ca94284557a62",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-17T18:50:30Z",
       "updated_at": "2026-11-17T18:50:31Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.2/justray-1.9.2-linux-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17359275,
       "digest": "sha256:c2c5d67be7600b7fe27e1910fa90c4a5023c3d4362dbd44908162f84e83cbb8c",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-17T18:50:30Z",
       "updated_at": "2026-11-17T18:50:31Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.2/justray-1.9.2-macos-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19043591,
       "digest": "sha256:f5fe9e276a9a07f9ac8f420a5bf768bbe62b4a31e90c8064f47f94ee2905fc2a",
-      "download_count": 32,
+      "download_count": 39,
       "created_at": "2026-11-17T18:50:30Z",
       "updated_at": "2026-11-17T18:50:31Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.2/justray-1.9.2-windows-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16874851,
       "digest": "sha256:908572fb2a4463e829ae1e17de7587d46769625d88194126cf01cba5ab4b108e",
-      "download_count": 14,
+      "download_count": 18,
       "created_at": "2026-11-17T18:50:32Z",
       "updated_at": "2026-11-17T18:50:33Z",
       "browser_download_url": "https://github.com/luynrs/justray/releases/download/v1.9.2/justray-1.9.2-windows-arm64.zip"

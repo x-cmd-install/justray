@@ -37,22 +37,22 @@ Total: **14,942** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 86 · **Forks**: 6 · **Open issues**: 9 · **Contributors**: 3
+- **Stars**: 87 · **Forks**: 6 · **Open issues**: 10 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 345
+- **Releases**: 54 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 1 · **Commits**: 345
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 6 | 4 | 0 | 2 | 0 | 38 |
-| last60d | 2026-09-26 | 24 | 6 | 0 | 4 | 0 | 152 |
-| 90d | 2026-08-27 | 53 | 23 | 0 | 9 | 0 | 266 |
-| last180d | 2026-05-29 | 54 | 26 | 0 | 9 | 0 | 345 |
-| 360d | 2025-11-30 | 54 | 26 | 0 | 9 | 0 | 345 |
-| last720d | 2024-12-05 | 54 | 26 | 0 | 9 | 0 | 345 |
+| 30d | 2026-10-27 | 6 | 4 | 0 | 2 | 1 | 38 |
+| last60d | 2026-09-27 | 23 | 5 | 0 | 4 | 1 | 152 |
+| 90d | 2026-08-28 | 49 | 22 | 0 | 9 | 1 | 266 |
+| last180d | 2026-05-30 | 54 | 26 | 0 | 9 | 1 | 345 |
+| 360d | 2025-12-01 | 54 | 26 | 0 | 9 | 1 | 345 |
+| last720d | 2024-12-06 | 54 | 26 | 0 | 9 | 1 | 345 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for justray lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:16:05Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:08:28Z._
